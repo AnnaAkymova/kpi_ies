@@ -1,0 +1,9 @@
+venv
+app.log
+mosquitto.*
+__pycache__
+proj*
+*.pdf
+*.docx
+*.code-workspace
+*.vscode/
